@@ -1,2 +1,2 @@
-# CDAC-SS-SCP
-Software Security and Secure Coding Practices
+# CDAC Software Secutiy and Secure Coding Practices
+Software Security and Secure Coding Practices course.
